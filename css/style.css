@@ -20,7 +20,7 @@
 }
 .imggallary{
     display:flex;
-    padding-top: 80px; 
+    padding-top: 30px; 
     padding-left:40px;
     column-gap:15px;
 }
@@ -190,9 +190,12 @@
 .copy2 {
     display:flex;
    
-    padding-left: 40%;
+    padding-left: 31%;
     padding-right: 25%;
     column-gap: 40px;
+}
+.copy2 img {
+    width:90px;
 }
 
 .copyright div hr {
@@ -209,4 +212,8 @@
 }
 .imggallary img{
     border-radius:20px;
+}
+.redarea1{
+    background-color:rgb(244,226,226);
+    height:210px;
 }
